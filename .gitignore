@@ -1,0 +1,7 @@
+*.swp
+application/*
+data/*
+figure/*
+library/*
+utils/*
+public/*
