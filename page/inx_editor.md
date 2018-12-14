@@ -6,7 +6,7 @@
 
 INX Editor是一款IONEX格式电离层数据编辑软件。它支持Windows, Linux以及Mac OS三大主流操作系统。它能够实现对IONEX电离层数据产品在时间维度、地理经纬度层面的编辑操作，如数据的加密、抽稀以及自定义截取，还能够计算任一位置的电离层总电子含量(TEC)，并且支持IONEX格式与二进制格式的相互转换。
 
-**下载INX Editor**: [ftp://ftp.ionosphere.cn/software/inx_editor/](ftp://ftp.ionosphere.cn/software/inx_editor/)
+**下载INX Editor**: [ftp://pub.ionosphere.cn/software/inx_editor/](ftp://pub.ionosphere.cn/software/inx_editor/)
 
 ### 更新日志
 
