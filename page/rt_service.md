@@ -23,7 +23,7 @@ IRTS SDK封装了用户端与服务端的通信，通过几个函数即可便捷
 部分代码说明：
 
 ```C++
-char host[20]="irts.iono.cn"; //服务端地址
+char host[20]="rtgim.ionosphere.cn"; //服务端地址
 int port=10086;				  //服务端口
 char username[10]="test";	  //用户名
 char password[10]="irts2017"; //密码
