@@ -1,4 +1,4 @@
-### Publications on GNSS & Ionosphere
+## Publications on GNSS & Ionosphere
 
 - Wang, C., Global ionospheric maps with a high temporal resolution. Results in Physics, 2020. 16: p. 102927. https://doi.org/10.1016/j.rinp.2020.102927
 
