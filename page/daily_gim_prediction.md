@@ -1,8 +1,8 @@
-### Global TEC Maps Predition (1-d ahead)
+### Global TEC Maps Prediction (1-d ahead)
 
-<img class="gim_map" src="/figure/b1pg_tec.gif" alt="Global TEC Maps Predition (1-d ahead)" />
+<img class="gim_map" src="/figure/b1pg_tec.gif" alt="Global TEC Maps Prediction (1-d ahead)" />
 
-#### Global TEC Maps Predition (1-d ahead)
+#### Global TEC Maps Prediction (1-d ahead)
 
 <div id="tecmap" class="gim_tec">
 	<a href="/figure/b1pg_tec_0.png"><img src="/figure/small_b1pg_tec_0.png"></a>
@@ -31,11 +31,11 @@
 	<a href="/figure/b1pg_tec_23.png"><img src="/figure/small_b1pg_tec_23.png"></a>
 </div>
 
-### Global TEC Maps Predition (2-d ahead)
+### Global TEC Maps Prediction (2-d ahead)
 
-<img class="gim_map" src="/figure/b2pg_tec.gif" alt="Global TEC Maps Predition (1-d ahead)" />
+<img class="gim_map" src="/figure/b2pg_tec.gif" alt="Global TEC Maps Prediction (1-d ahead)" />
 
-#### Global TEC Maps Predition (2-d ahead)
+#### Global TEC Maps Prediction (2-d ahead)
 
 <div id="tecmap" class="gim_tec">
 	<a href="/figure/b2pg_tec_0.png"><img src="/figure/small_b2pg_tec_0.png"></a>
