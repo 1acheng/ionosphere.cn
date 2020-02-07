@@ -63,3 +63,8 @@
 	<a href="/figure/b2pg_tec_22.png"><img src="/figure/small_b2pg_tec_22.png"></a>
 	<a href="/figure/b2pg_tec_23.png"><img src="/figure/small_b2pg_tec_23.png"></a>
 </div>
+
+<p><strong>References</strong></p>
+<ul class="log">
+    <li><p>Wang, C.*, Xin, S., Liu, X., Shi, C., & Fan, L. Prediction of global ionospheric VTEC maps using an adaptive autoregressive model. Earth, Planets and Space, 2018, 70(1), 18.</p></li>
+</ul>
