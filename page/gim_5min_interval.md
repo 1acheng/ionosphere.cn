@@ -16,14 +16,14 @@
 
 <script  type="text/javascript">
 	window.onload = function() {
-		var local1=document.getElementById('video_b5mg');  //获取，函数执行完成后local内存释放
-		local1.autoplay = true; // 自动播放
-		local1.loop = true; // 循环播放
-		local1.muted=true; // 关闭声音，如果为false,视频无法自动播放
-		if(local1.paused){  //判断是否处于暂停状态
-			local1.play();  //开启播放
+		var local1=document.getElementById('video_b5mg');  
+		local1.autoplay = true; 
+		local1.loop = true; 
+		local1.muted=true; 
+		if(local1.paused){  
+			local1.play();  
 	    }else{		   
-			local1.pause();  //停止播放
+			local1.pause(); 
 	    }
     }
 </script>
