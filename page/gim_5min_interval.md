@@ -1,6 +1,6 @@
 ## Global TEC Maps (5 min interval)
 
-<video id="video_b5mg" controls="controls" style="width:100%">
+<video id="video_b5mg" controls="controls" style="width:100%" preload="auto">
   <source src="/static/file/b5mg.mp4" type="video/mp4"/>
 </video>
 
