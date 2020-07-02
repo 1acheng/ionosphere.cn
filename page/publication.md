@@ -1,4 +1,5 @@
 ## Publications on GNSS & Ionosphere
+- Hu, Z., Fan, L., Wang, C., Wang, Z., Shi, C., & Jing, G. (2020). More reliable global ionospheric maps combined from ionospheric products of the seven IGS analysis centers. Results in Physics, 17, 103162. https://doi.org/10.1016/j.rinp.2020.103162
 
 - Wang, C., K. Xue, Z. Wang, C. Shi, L. Fan and T. Zhang, Global ionospheric maps forecasting based on an adaptive autoregressive modeling of grid point VTEC values, Astrophysics and Space Science Vol. 365, No. 3, 2020, pp. 48. https://doi.org/10.1007/s10509-020-03760-2
 
