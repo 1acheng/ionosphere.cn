@@ -73,4 +73,5 @@
 <ul class="log">
     <li><p>Wang, C.*, Xin, S., Liu, X., Shi, C., & Fan, L. Prediction of global ionospheric VTEC maps using an adaptive autoregressive model. Earth, Planets and Space, 2018, 70(1), 18. https://doi.org/10.1186/s40623-017-0762-8</p></li>
     <li><p>Wang, C., K. Xue, Z. Wang*, C. Shi, L. Fan and T. Zhang, Global ionospheric maps forecasting based on an adaptive autoregressive modeling of grid point VTEC values, Astrophysics and Space Science Vol. 365, No. 3, 2020, pp. 48. https://doi.org/10.1007/s10509-020-03760-2</p></li>
+    <li><p>F. Zhang, C. Zhou*, C. Wang, J. Zhao, Y. Liu, G. Xia and Z. Zhao, Global ionospheric TEC prediction based on deep learning, Chinese Journal of Radio Science, 2020, https://doi.org/10.13443/j.cjors.2020051101</p></li>
 </ul>
